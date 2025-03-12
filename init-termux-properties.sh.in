@@ -2,3 +2,4 @@ if [ ! -f @TERMUX_HOME@/.config/termux/termux.properties ] && [ ! -e @TERMUX_HOM
 	mkdir -p @TERMUX_HOME@/.termux
 	cp @TERMUX_PREFIX@/share/examples/termux/termux.properties @TERMUX_HOME@/.termux/
 fi
+ 
